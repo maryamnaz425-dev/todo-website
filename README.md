@@ -4,7 +4,7 @@ A full-stack containerized todo application with automated CI/CD and AWS deploym
 
 Live Demo
 
-http://16.4.23.253:3000
+http://16.4.23.253
 
 Note: This instance will be stopped after grading. If the URL is unreachable, run it locally — see below.
 
